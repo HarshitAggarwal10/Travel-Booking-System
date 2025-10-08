@@ -1,0 +1,12 @@
+com\apc\common\model\User.class
+com\apc\common\dao\FlightBookingDAO.class
+com\apc\common\dao\UserDAO.class
+com\apc\common\model\Flight.class
+com\apc\common\model\Hotel.class
+com\apc\common\model\FlightBooking.class
+com\apc\common\dao\HotelBookingDAO.class
+com\apc\common\dao\HotelDAO.class
+com\apc\common\model\HotelBooking.class
+com\apc\common\exception\ValidationException.class
+com\apc\common\dao\FlightDAO.class
+com\apc\common\util\HibernateUtil.class
